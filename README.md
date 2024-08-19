@@ -72,6 +72,14 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 2. Version Control Systems (VCS) are the software tools for tracking changes to source code and coordinating work among team members. Examples are: Git, Subversion, Mercurial
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+1. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delay.
+2. Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
+3. Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance cost.
+The strategies to overcome these challenges include:
+a. Effective communication.
+b. Agile methodologies.
+c. Prioritization of tasks.
+d. Regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
