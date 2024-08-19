@@ -68,8 +68,8 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 3. Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-1. Integrated Development Environments (IDEs) provides comprehensive tools for writing, debugging, and testing code. Examples are: Visual Studio, Eclipse and IntelliJ IDEA
-2. Version Control Systems (VCS) are the software tools for tracking changes to source code and coordinating work among team members. Examples are: Git, Subversion
+1. Integrated Development Environments (IDEs) provides comprehensive tools for writing, debugging, and testing code. Examples are: Visual Studio, Eclipse, NetBeans, RStudio, Xcode and IntelliJ IDEA
+2. Version Control Systems (VCS) are the software tools for tracking changes to source code and coordinating work among team members. Examples are: Git, Subversion, Mercurial
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
