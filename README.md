@@ -25,10 +25,47 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: Providing ongoing support,updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall Methodology
+Waterfall is a linear, sequential project management approach where each phase must be completed before moving to the next.
+It's often likened to a waterfall, where water flows from one level to the next in a continuous, downward motion.   
+
+Key characteristics:
+
+1. Sequential phases: Requirements, design, development, testing, deployment, maintenance.   
+2. Rigid structure: Changes are difficult and costly to implement once a phase is complete.   
+3. Detailed documentation: Extensive documentation is required throughout the project.   
+4. Emphasis on planning: Detailed upfront planning is crucial.   
+
+Suitable for:
+
+1. Projects with well-defined requirements and minimal uncertainty.   
+2. Projects with strict regulatory compliance.   
+3. Projects with a fixed budget and timeline.   
+Example: Building a bridge. The design, material procurement, construction, and testing phases must be completed sequentially with minimal room for changes.
+
+Agile Methodology
+Agile is an iterative and incremental approach to project management, emphasizing flexibility, collaboration, and customer satisfaction. It involves breaking down a project into smaller cycles (sprints) and delivering working software frequently.   
+
+Key characteristics:
+
+1. Iterative development: Work is divided into short, iterative cycles.   
+2. Flexibility: Adapts to changing requirements throughout the project.   
+3. Customer collaboration: Continuous involvement of stakeholders.   
+4. Emphasis on working software: Delivering a functional product early and often.   
+
+Suitable for:
+
+1. Projects with uncertain or changing requirements.   
+2. Projects where customer feedback is crucial.
+3. Projects requiring rapid development and delivery.
+Example: Developing a mobile app. Agile allows for rapid prototyping, testing, and incorporating user feedback to refine the app over time.   
+
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+1. Software Developer: Responsible for writing code and implementing software
+2. Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+3. Project Manager: Oversees the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
