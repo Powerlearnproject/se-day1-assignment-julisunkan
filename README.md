@@ -28,7 +28,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall Methodology
+Waterfall Methodology: 
 Waterfall is a linear, sequential project management approach where each phase must be completed before moving to the next.
 It's often likened to a waterfall, where water flows from one level to the next in a continuous, downward motion.   
 
@@ -44,7 +44,7 @@ Suitable for:
 3. Projects with a fixed budget and timeline.   
 Example: Building a bridge. The design, material procurement, construction, and testing phases must be completed sequentially with minimal room for changes.
 
-Agile Methodology
+Agile Methodology: 
 Agile is an iterative and incremental approach to project management, emphasizing flexibility, collaboration, and customer satisfaction. It involves breaking down a project into smaller cycles (sprints) and delivering working software frequently.   
 
 Key characteristics:
@@ -97,5 +97,11 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+Prompt engineering is all about crafting your questions or instructions to get the best responses from AI models. Prompt engineering helps to give clear, concise and specific instructions to AI models in order to get the best responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Example of a vague prompt: Write something about dogs
+Example of a clear,specific and concise prompt: Examine the role of dogs in disaster relief efforts, focusing on specific breeds and their unique abilities.
+
+The improved prompt is more effective because it is clear, specific and concise. It also uses keywords that guide the AI towards the kind of response that is required.
