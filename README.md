@@ -92,6 +92,8 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 3. System Testing: Testing the entire software system as a whole.
 4. Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 
+The importance of testing in quality assurance is to identify and fix defects early in the development process, leading to higher-quality software products.
+
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -105,4 +107,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Example of a vague prompt: Write something about dogs
 Example of a clear,specific and concise prompt: Examine the role of dogs in disaster relief efforts, focusing on specific breeds and their unique abilities.
 
-The improved prompt is more effective because it is clear, specific and concise. It also uses keywords that guide the AI towards the kind of response that is required.
+The improved prompt is more effective because it is clear, specific and concise. It also used keywords that guide the AI towards the kind of response that is required.
