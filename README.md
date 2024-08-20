@@ -104,7 +104,8 @@ Prompt engineering is all about crafting your questions or instructions to get t
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-Example of a vague prompt: Write something about dogs
-Example of a clear,specific and concise prompt: Examine the role of dogs in disaster relief efforts, focusing on specific breeds and their unique abilities.
+Example of a vague prompt: Write something about dogs.
+
+Improved prompt: Examine the role of dogs in disaster relief efforts, focusing on specific breeds and their unique abilities.
 
 The improved prompt is more effective because it is clear, specific and concise. It also used keywords that guide the AI towards the kind of response that is required.
